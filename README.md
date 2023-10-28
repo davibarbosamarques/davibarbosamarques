@@ -15,7 +15,6 @@
    <img align="center" alt="Davi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-
 <div style="inline_block"><br>
    <strong><p>Tenho muita vontande de aprender:</p></strong>
    <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
