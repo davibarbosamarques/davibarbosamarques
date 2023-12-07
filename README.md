@@ -1,4 +1,4 @@
-### Oiii!! eu sou o Davi Barbosa, tenho 17 e Sou desenvolvedor Front-End 💻
+### Oiii!! eu sou o Davi Barbosa, tenho 17 anos e Sou desenvolvedor Front-End 💻
 <hr>
 
 <div style="display: inline_block"><br>
