@@ -19,7 +19,7 @@
 
 <a href="https://www.linkedin.com/in/davi-barbosa-marques-30127729b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="Instagram.com/davib.dev" target="_blank" rel="noopener noreferrer"><img align="center" alt="GitHub" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/davib.dev/" target="_blank" rel="noopener noreferrer"><img align="center" alt="GitHub" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
 
