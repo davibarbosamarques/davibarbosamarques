@@ -1,4 +1,4 @@
-### 💙 Olá mundo!! eu sou o Davi Barbosa, tenho 18 anos e Sou desenvolvedor Front-End 💻
+### 💙 Olá mundo!! eu sou o Davi Barbosa, tenho 19 anos e Sou desenvolvedor Front-End 💻
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davibarbosamarques&show_icons=true&theme=tokyonight)
